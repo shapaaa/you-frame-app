@@ -1,4 +1,4 @@
-
+## Responsive app made with react & css grid
 
 ## Available Scripts
 
